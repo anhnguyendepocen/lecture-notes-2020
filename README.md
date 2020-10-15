@@ -1,5 +1,5 @@
-Machine Learning for Economists
-================
+Machine Learning for Economists (being revised to be simpler) 
+============
 
 ### Spring 2020 @ the Hebrew University of Jerusalem
 
